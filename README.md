@@ -1,6 +1,9 @@
 SEAN MWENDWA
+
 SCT212-0127/2022
+
 DIFFERENCES AND SIMILARITIES BETWEEN THE 7-LAYER 0SI REFERENCE MODEL AND THE TCP/IP MODEL.
+
 The OSI (Open Systems Interconnection) model and the TCP/IP model are both conceptual frameworks that describe how information is transmitted between two devices across a network. Both models define a set of layers, each of which performs a specific set of functions to enable the transmission of data.
 1. Origin and Popularity
  The OSI Model was developed by the International Organization for Standardization (ISO) in the 1980s, the OSI model was intended as a universal networking framework while the TCP/IP Model originates from protocols developed by the U.S. Department of Defense, forms the backbone of the Internet, and has achieved widespread implementation and usage.
